@@ -1,0 +1,56 @@
+{% extends "index.html" %}
+{% block title %}Lista de Usuarios{% endblock %}
+{% block content %}
+    {% if users.items %}
+        <div style = "margin-left: 350px; margin-top: 100px">
+            <table class="table">
+                <thead class="thead-light">
+                    <tr>
+                      <th scope="col">Id</th>
+                      <th scope="col">Nombre</th>
+                      <th scope="col">Email</th>
+                      <th scope="col">Ciudad</th>
+                    </tr>
+                </thead>
+                <tbody>
+                {% for user in users.items %}
+                    <tr>
+                            <td>{{ user.id }}</td>
+                            <td>{{ user.name }}</td>
+                            <td>{{ user.email }}</td>
+                            <td>{{ user.city }}</td>
+                    </tr>
+                {% endfor %}
+                </tbody>
+            </table>
+            </div>
+    {% else %}
+            <h1>No hay usuarios aún, registra uno en la sección registrar!</h1>
+        {% endif %}
+    <div class=pagination style = "margin-left: 350px; margin-top: 100px">
+    <h3>Paginas: </h3>
+        {%- for page in users.iter_pages() %}
+            {% if page %}
+
+                {% if page != users.page %}
+                    <h3>
+                        <a
+                                href="{{ url_for('user_bp.get_users', page=page) }}">{{ page }}
+                        </a>
+                    </h3>
+                {% else %}
+                    <h3> <strong>{{ page }}</strong>  </h3>
+                {% endif %}
+            {% else %}
+                <span class=ellipsis>…</span>
+            {% endif %}
+        {%- endfor %}
+    </div>
+    {% if error %}
+        <div class="container">
+            <div class="screen__content"  >
+               <h6>{{ error}} </h6>
+            </div>
+        </div>
+    {% endif %}
+{% endblock %}

@@ -1,0 +1,32 @@
+{% extends "index.html" %}
+{% block title %}Registro de usuarios{% endblock %}
+{% block content %}
+{#    <h1 >sdsda</h1>#}
+   <form action="" method="post">
+  <div class="container">
+    <h1>Registro de Ususarios</h1>
+    <p>Porfavor llene el siguiente formulario para su registro.</p>
+    <hr>
+
+    <label for="name"><b>Nombre</b></label>
+    <input type="text" placeholder="Ingrese su nombre" name="name" required>
+
+      <label for="email"><b>Email</b></label>
+    <input type="email" placeholder="Ingrese su Email" name="email" required>
+
+    <label for="city"><b>Ciudad</b></label>
+    <input type="text" placeholder="Ingrese la ciudad de residencia" name="city" required>
+
+    <div class="clearfix">
+      <button type="submit" class="article">Registrar</button>
+    </div>
+  </div>
+    </form>
+    {% if error %}
+        <div class="container">
+            <div class="screen__content"  >
+               <h6>{{ error}} </h6>
+            </div>
+        </div>
+    {% endif %}
+{% endblock %}
