@@ -26,3 +26,6 @@ Werkzeug==2.0.2
 pydantic
 flask_pydantic
 email-validator
+flask_migrate
+pymysql
+pytest
