@@ -5,5 +5,12 @@ dist: xenial
 
 language: python
 
+services:
+  - docker
+
+before_install:
+  pip install docker-compose
+
 script:
-  - python -m pytest -v
+  - docker-compose up -d db
+  - docker-compose up app_coink

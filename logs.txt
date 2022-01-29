@@ -22,3 +22,89 @@ User created at: 29/01/2022 10:14:48 :
 {'name': 'manuel', 'email': 'jhonvalderramaa7@gmail.com', 'city': 'Cali, Valle del Cauca'}
 User created at: 29/01/2022 10:14:48 : 
 {'name': 'santiago', 'email': 'jhonvalderramaa7@gmail.com', 'city': 'Cali, Valle del Cauca'}
+User created at: 29/01/2022 11:35:41 : 
+{'name': 'jhon valderrama', 'email': 'jhonvalderramaa7@gmail.com', 'city': 'Cali, Valle del Cauca'}
+User created at: 29/01/2022 11:35:41 : 
+{'name': 'juan', 'email': 'jhonvalderramaa7@gmail.com', 'city': 'Cali, Valle del Cauca'}
+User created at: 29/01/2022 11:35:41 : 
+{'name': 'jhon', 'email': 'jhonvalderramaa7@gmail.com', 'city': 'Cali, Valle del Cauca'}
+User created at: 29/01/2022 11:35:41 : 
+{'name': 'jairo', 'email': 'jhonvalderramaa7@gmail.com', 'city': 'Cali, Valle del Cauca'}
+User created at: 29/01/2022 11:35:41 : 
+{'name': 'manuel', 'email': 'jhonvalderramaa7@gmail.com', 'city': 'Cali, Valle del Cauca'}
+User created at: 29/01/2022 11:35:42 : 
+{'name': 'santiago', 'email': 'jhonvalderramaa7@gmail.com', 'city': 'Cali, Valle del Cauca'}
+User created at: 29/01/2022 15:08:20 : 
+{'name': 'jhon valderrama', 'email': 'jhonvalderramaa7@gmail.com', 'city': 'Cali, Valle del Cauca'}
+User created at: 29/01/2022 15:08:20 : 
+{'name': 'juan', 'email': 'jhonvalderramaa7@gmail.com', 'city': 'Cali, Valle del Cauca'}
+User created at: 29/01/2022 15:08:20 : 
+{'name': 'jhon', 'email': 'jhonvalderramaa7@gmail.com', 'city': 'Cali, Valle del Cauca'}
+User created at: 29/01/2022 15:08:20 : 
+{'name': 'jairo', 'email': 'jhonvalderramaa7@gmail.com', 'city': 'Cali, Valle del Cauca'}
+User created at: 29/01/2022 15:08:20 : 
+{'name': 'manuel', 'email': 'jhonvalderramaa7@gmail.com', 'city': 'Cali, Valle del Cauca'}
+User created at: 29/01/2022 15:08:20 : 
+{'name': 'santiago', 'email': 'jhonvalderramaa7@gmail.com', 'city': 'Cali, Valle del Cauca'}
+User created at: 29/01/2022 15:09:03 : 
+{'name': 'jhon valderrama', 'email': 'jhonvalderramaa7@gmail.com', 'city': 'Cali, Valle del Cauca'}
+User created at: 29/01/2022 15:09:04 : 
+{'name': 'juan', 'email': 'jhonvalderramaa7@gmail.com', 'city': 'Cali, Valle del Cauca'}
+User created at: 29/01/2022 15:09:04 : 
+{'name': 'jhon', 'email': 'jhonvalderramaa7@gmail.com', 'city': 'Cali, Valle del Cauca'}
+User created at: 29/01/2022 15:09:04 : 
+{'name': 'jairo', 'email': 'jhonvalderramaa7@gmail.com', 'city': 'Cali, Valle del Cauca'}
+User created at: 29/01/2022 15:09:04 : 
+{'name': 'manuel', 'email': 'jhonvalderramaa7@gmail.com', 'city': 'Cali, Valle del Cauca'}
+User created at: 29/01/2022 15:09:04 : 
+{'name': 'santiago', 'email': 'jhonvalderramaa7@gmail.com', 'city': 'Cali, Valle del Cauca'}
+User created at: 29/01/2022 15:09:35 : 
+{'name': 'jhon valderrama', 'email': 'jhonvalderramaa7@gmail.com', 'city': 'Cali, Valle del Cauca'}
+User created at: 29/01/2022 15:09:36 : 
+{'name': 'juan', 'email': 'jhonvalderramaa7@gmail.com', 'city': 'Cali, Valle del Cauca'}
+User created at: 29/01/2022 15:09:36 : 
+{'name': 'jhon', 'email': 'jhonvalderramaa7@gmail.com', 'city': 'Cali, Valle del Cauca'}
+User created at: 29/01/2022 15:09:36 : 
+{'name': 'jairo', 'email': 'jhonvalderramaa7@gmail.com', 'city': 'Cali, Valle del Cauca'}
+User created at: 29/01/2022 15:09:36 : 
+{'name': 'manuel', 'email': 'jhonvalderramaa7@gmail.com', 'city': 'Cali, Valle del Cauca'}
+User created at: 29/01/2022 15:09:36 : 
+{'name': 'santiago', 'email': 'jhonvalderramaa7@gmail.com', 'city': 'Cali, Valle del Cauca'}
+User created at: 29/01/2022 15:09:50 : 
+{'name': 'jhon valderrama', 'email': 'jhonvalderramaa7@gmail.com', 'city': 'Cali, Valle del Cauca'}
+User created at: 29/01/2022 15:09:51 : 
+{'name': 'juan', 'email': 'jhonvalderramaa7@gmail.com', 'city': 'Cali, Valle del Cauca'}
+User created at: 29/01/2022 15:09:51 : 
+{'name': 'jhon', 'email': 'jhonvalderramaa7@gmail.com', 'city': 'Cali, Valle del Cauca'}
+User created at: 29/01/2022 15:09:51 : 
+{'name': 'jairo', 'email': 'jhonvalderramaa7@gmail.com', 'city': 'Cali, Valle del Cauca'}
+User created at: 29/01/2022 15:09:51 : 
+{'name': 'manuel', 'email': 'jhonvalderramaa7@gmail.com', 'city': 'Cali, Valle del Cauca'}
+User created at: 29/01/2022 15:09:51 : 
+{'name': 'santiago', 'email': 'jhonvalderramaa7@gmail.com', 'city': 'Cali, Valle del Cauca'}
+User created at: 29/01/2022 15:10:09 : 
+{'name': 'jhon valderrama', 'email': 'jhonvalderramaa7@gmail.com', 'city': 'Cali, Valle del Cauca'}
+User created at: 29/01/2022 15:10:09 : 
+{'name': 'juan', 'email': 'jhonvalderramaa7@gmail.com', 'city': 'Cali, Valle del Cauca'}
+User created at: 29/01/2022 15:10:09 : 
+{'name': 'jhon', 'email': 'jhonvalderramaa7@gmail.com', 'city': 'Cali, Valle del Cauca'}
+User created at: 29/01/2022 15:10:09 : 
+{'name': 'jairo', 'email': 'jhonvalderramaa7@gmail.com', 'city': 'Cali, Valle del Cauca'}
+User created at: 29/01/2022 15:10:09 : 
+{'name': 'manuel', 'email': 'jhonvalderramaa7@gmail.com', 'city': 'Cali, Valle del Cauca'}
+User created at: 29/01/2022 15:10:09 : 
+{'name': 'santiago', 'email': 'jhonvalderramaa7@gmail.com', 'city': 'Cali, Valle del Cauca'}
+User created at: 29/01/2022 15:10:23 : 
+{'name': 'jhon valderrama', 'email': 'jhonvalderramaa7@gmail.com', 'city': 'Cali, Valle del Cauca'}
+User created at: 29/01/2022 15:10:23 : 
+{'name': 'jhon valderrama', 'email': 'jhonvalderramaa7@gmail.com', 'city': 'Cali, Valle del Cauca'}
+User created at: 29/01/2022 15:10:23 : 
+{'name': 'juan', 'email': 'jhonvalderramaa7@gmail.com', 'city': 'Cali, Valle del Cauca'}
+User created at: 29/01/2022 15:10:24 : 
+{'name': 'jhon', 'email': 'jhonvalderramaa7@gmail.com', 'city': 'Cali, Valle del Cauca'}
+User created at: 29/01/2022 15:10:24 : 
+{'name': 'jairo', 'email': 'jhonvalderramaa7@gmail.com', 'city': 'Cali, Valle del Cauca'}
+User created at: 29/01/2022 15:10:24 : 
+{'name': 'manuel', 'email': 'jhonvalderramaa7@gmail.com', 'city': 'Cali, Valle del Cauca'}
+User created at: 29/01/2022 15:10:24 : 
+{'name': 'santiago', 'email': 'jhonvalderramaa7@gmail.com', 'city': 'Cali, Valle del Cauca'}

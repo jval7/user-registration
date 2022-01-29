@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d024be3b-bb20-4d6d-a317-9cc73a37efa1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +56,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for test_model.test_list_users">
+  <component name="RunManager" selected="Python tests.Python tests for test_model.test_create_user">
     <configuration name="coink" type="PythonConfigurationType" factoryName="Python">
       <module name="coink" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -125,8 +126,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Python tests for test_model.test_list_users" />
         <item itemvalue="Python tests.Python tests for test_model.test_create_user" />
+        <item itemvalue="Python tests.Python tests for test_model.test_list_users" />
         <item itemvalue="Python tests.Python tests for test_model.test_create_trade" />
       </list>
     </recent_temporary>
@@ -141,7 +142,8 @@
       <updated>1643327471035</updated>
       <workItem from="1643327472556" duration="2412000" />
       <workItem from="1643330840930" duration="1641000" />
-      <workItem from="1643333781689" duration="7301000" />
+      <workItem from="1643333781689" duration="15288000" />
+      <workItem from="1643487120472" duration="2288000" />
     </task>
     <servers />
   </component>
@@ -160,6 +162,6 @@
     </option>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/coink$.coverage" NAME=" Coverage Results" MODIFIED="1643467837747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/coink$.coverage" NAME=" Coverage Results" MODIFIED="1643486793656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
   </component>
 </project>

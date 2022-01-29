@@ -2,7 +2,7 @@ version : "3.8"
 
 services:
   app_coink:
-    restart: always
+#    restart: always
     build:
         context: .
         dockerfile: Dockerfile
@@ -10,6 +10,9 @@ services:
       - 5001:5001
     depends_on:
       - db
+    command: >
+      sh -c "python3 wait_for.py && pytest --verbose"
+
 
   db:
     image: mysql

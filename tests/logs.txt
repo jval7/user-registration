@@ -112,3 +112,5 @@ User created at: 29/01/2022 09:50:40 :
 {'name': 'manuel', 'email': 'jhonvalderramaa7@gmail.com', 'city': 'Cali, Valle del Cauca'}
 User created at: 29/01/2022 09:50:40 : 
 {'name': 'santiago', 'email': 'jhonvalderramaa7@gmail.com', 'city': 'Cali, Valle del Cauca'}
+User created at: 29/01/2022 15:06:36 : 
+{'name': 'jhon valderrama', 'email': 'jhonvalderramaa7@gmail.com', 'city': 'Cali, Valle del Cauca'}
