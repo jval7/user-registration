@@ -1,3 +1,4 @@
+[![Build Status](https://app.travis-ci.com/jval7/user-registration.svg?branch=main)](https://app.travis-ci.com/jval7/user-registration)
 # Coink test
 ### Porfavor seguir los siguientes comandos para levantar la api:
 
